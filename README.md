@@ -37,5 +37,7 @@ There are also quite a few bugs that I am currently working on, so the applicati
 Sources that have helped me a lot in building the project are:
 
 https://www.youtube.com/watch?v=xaJxBsxqkyM&t=5s
+
 https://www.youtube.com/watch?v=U4ogK0MIzqk&t=281s
+
 https://www.youtube.com/watch?v=LT5eMZaGoCs&t=3065s
